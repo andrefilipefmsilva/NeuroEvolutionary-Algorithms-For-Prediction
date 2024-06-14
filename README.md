@@ -1,2 +1,4 @@
 # NeuroEvolution
-Project for Neural and Evolutionary Learning course - Utilizing Genetic Algorithms to infer milk components
+Project for Neural and Evolutionary Learning course 
+
+Utilizing Genetic Programming to infer milk components
