@@ -1,5 +1,5 @@
 # NeuroEvolution
-Project for Neural and Evolutionary Learning course 
+**Project for Neural and Evolutionary Learning course at Nova IMS**
 
 Utilizing Genetic Programming to infer milk components
 
