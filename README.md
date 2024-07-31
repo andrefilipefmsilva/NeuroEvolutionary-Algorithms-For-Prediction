@@ -3,4 +3,4 @@ Project for Neural and Evolutionary Learning course
 
 Utilizing Genetic Programming to infer milk components
 
-TODO: Better README
+Main Tools: Genetic Algorithms, Genetic Programming, Neural Networks
